@@ -1,2 +1,1 @@
-hoge
-hoge
+ruby練習用リボジトリ
